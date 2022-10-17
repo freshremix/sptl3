@@ -1,7 +1,6 @@
-pip
 streamlit
+pip
 python-telegram-bot==12.3.0
 python-dotenv
-spotdl==3.9.6
-spotipy
-requests
+spotdl==4.0.0rc5
+yt-dlp
