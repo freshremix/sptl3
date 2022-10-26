@@ -2,5 +2,7 @@ streamlit
 pip
 python-telegram-bot==12.3.0
 python-dotenv
-spotdl==4.0.0rc5
+spotdl==4.0.1
 yt-dlp
+youtube_dl
+imageio-ffmpeg==0.4.7
